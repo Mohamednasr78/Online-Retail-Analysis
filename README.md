@@ -19,3 +19,15 @@ UCI Machine Learning Repository.
 #### -Explore basic customer behavior patterns, including identifying top customers, understanding order frequency, average order value, and the distribution of total spending.
 
 #### -Derive actionable insights that could inform business strategy.
+## Tools & Libraries Used
+### Python 3.x
+
+### Jupyter Notebook
+
+### Pandas: For data manipulation and analysis.
+
+### Matplotlib: For basic data visualization.
+
+### Seaborn: For enhanced statistical data visualization.
+
+### NumPy: For numerical operations (often used implicitly by Pandas).
